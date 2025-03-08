@@ -1,4 +1,4 @@
-# Credit Derivatives
+# What it is
 
 Examples of Matlab code to price credit derivatives.
 
