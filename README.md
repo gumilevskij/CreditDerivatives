@@ -2,7 +2,7 @@
 
 Examples of Matlab code to price credit derivatives.
 
-# How to Run
+# How to run
 
 In MATLAB, please open CDODriver.m script and run it to price CDO instruments, cds.m script - to price CDS, and cds_options.m -to price options of CDS.  Please specify parameters for pricing:
 
