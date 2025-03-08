@@ -10,7 +10,7 @@ In MATLAB, please open CDODriver.m script and run it to price CDO instruments, c
 
 - CDS Options: Settlament date, option and CDS maturities,option strike, spread volatility, zero rate and market data such as market rates and dates.
 
-- CDO: Maturity in years, size of portfolio, recovery and hazard rates, coupon rate, risk-free interest rate, number of Monte Carlo paths, parameters of Normal-Inverse Gaussian distribution, corellation coefficients, attachment and detachment points of CDO, for example, iTraxx Euroupe index.
+- CDO: Maturity in years, size of portfolio, recovery and hazard rates, coupon rate, risk-free interest rate, number of Monte Carlo paths, parameters of Normal-Inverse Gaussian distribution, corellation coefficients, attachment and detachment points of CDO, for example, iTraxx Europe index.
 
 # Documentation
 
