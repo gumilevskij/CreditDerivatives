@@ -1,6 +1,6 @@
 # What it is
 
-Examples of Matlab code to price credit derivatives.
+Examples of Matlab code to price structured credit derivatives.
 
 # How to run
 
